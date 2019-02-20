@@ -12,7 +12,7 @@ A web-based annotation tool for natural language processing (NLP) needs, inspire
 
 ## Demo
 
-See [https://synyi.github.io/poplar/](https://synyi.github.io/poplar/)
+See [https://yanjinghou.github.io/poplar/](https://yanjinghou.github.io/poplar/)
 
 ## Quick start
 
@@ -47,8 +47,3 @@ See our [Developer's Guide](https://github.com/synyi/poplar/blob/master/doc/Deve
 
 ## Support
 
-<img src="https://i.v2ex.co/3rLM1mvc.png" width=300>
-
-Poplar is led by AI team at [Synyi](https://www.synyi.com/)
-
-[Contact us](mailto:shen.yanghua@synyi.com)
